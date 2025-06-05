@@ -1,2 +1,1 @@
-# MICA
-Official code of MICA
+Source codes will be available soon.
