@@ -13,7 +13,7 @@
 
 - **2016.01.05**
 Jupyter Notebook demonstration released.
-  👉 Please click **[this](MICA_inference_demo_release.ipynb)** to view the inference results.
+  👉 Please click **[this](MICA_inference_demo_release_260105.ipynb)** to view the inference results.
 
 > The notebook contains fully rendered images and corresponding model outputs.  
 > All results were generated offline and saved directly in the notebook.
