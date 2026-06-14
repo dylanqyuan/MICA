@@ -1,0 +1,32 @@
+name: mica
+
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+
+  - pytorch=2.2.0
+  - torchvision
+  - pytorch-cuda
+
+
+
+  - pip:
+      - transformers==4.37.2
+      - accelerate
+      - timm
+      - einops
+      - sentencepiece
+      - safetensors
+      - numpy
+      - pillow
+      - opencv-python
+      - matplotlib
+      - pandas
+      - tqdm
+      - pyyaml
+      - flash-attn
